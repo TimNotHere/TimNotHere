@@ -1,7 +1,7 @@
 ![image](https://user-images.githubusercontent.com/102999216/215235464-9b793887-6f54-4701-826b-7ad6b0522860.png)
 ### Hey, I'm Tim 👋
 
-[![Tims's GitHub stats](https://github-readme-stats.vercel.app/apiTimNotHere=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+![Tim's GitHub stats](https://github-readme-stats.vercel.app/api?username=TimNotHere&show_icons=true&theme=dark)
 
 
 - 🔭 I’m currently working on my indie game

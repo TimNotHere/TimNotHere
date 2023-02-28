@@ -5,6 +5,6 @@
 
 - 🔭 I’m currently working on my indie game
 - 💬 Ask me about anime/development
-- 📫 How to reach me: You can reach me via email **timnothere@courvix.com**
+- 📫 How to reach me: You can reach me via discord **TimNotHere#2611**
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I'm a hispanic developer

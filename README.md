@@ -7,4 +7,3 @@
 - 💬 Ask me about anime/development
 - 📫 How to reach me: You can reach me via email NotTimNotHere@protonmail.com
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I'm a hispanic developer

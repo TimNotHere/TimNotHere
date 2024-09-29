@@ -4,6 +4,5 @@
 
 
 - 🔭 I’m currently working on Melody
-- 💬 Ask me about anime/development
-- 📫 How to reach me: You can reach me via email NotTimNotHere@protonmail.com
+- 💬 Ask me about web development
 - 😄 Pronouns: He/Him

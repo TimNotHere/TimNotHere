@@ -4,5 +4,4 @@
 
 
 - 🔭 Currently working on HTML Playground
-- 💬 Ask me about web development
 - 😄 Pronouns: He/Him
